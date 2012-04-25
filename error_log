@@ -1,0 +1,103 @@
+[07-Mar-2012 13:03:44] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/signup.php on line 163
+[08-Mar-2012 00:48:05] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/login.php on line 66
+[08-Mar-2012 01:31:21] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dlzip/project/login.php on line 83
+[08-Mar-2012 01:39:21] PHP Parse error:  syntax error, unexpected '}' in /home/dlzip/project/login.php on line 91
+[08-Mar-2012 01:49:10] PHP Parse error:  syntax error, unexpected '{' in /home/dlzip/project/header.php on line 22
+[08-Mar-2012 01:55:24] PHP Fatal error:  Call to undefined function  curpageurl() in /home/dlzip/project/index.php on line 27
+[08-Mar-2012 01:55:28] PHP Fatal error:  Call to undefined function  curpageurl() in /home/dlzip/project/index.php on line 27
+[08-Mar-2012 01:56:01] PHP Fatal error:  Call to undefined function  curpageurl() in /home/dlzip/project/index.php on line 27
+[08-Mar-2012 01:56:03] PHP Fatal error:  Call to undefined function  curpageurl() in /home/dlzip/project/index.php on line 27
+[08-Mar-2012 01:57:24] PHP Fatal error:  Call to undefined function  curpageurl() in /home/dlzip/project/index.php on line 27
+[08-Mar-2012 03:59:22] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/dlzip/project/logout.php on line 13
+[08-Mar-2012 03:59:50] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/dlzip/project/logout.php on line 13
+[08-Mar-2012 03:59:54] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/dlzip/project/logout.php on line 13
+[08-Mar-2012 12:25:53] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66846721 bytes) in /home/dlzip/project/header.php on line 35
+[08-Mar-2012 12:38:48] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/dlzip/project/header.php on line 36
+[08-Mar-2012 12:39:24] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/dlzip/project/header.php on line 36
+[08-Mar-2012 14:25:20] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/profile.php on line 15
+[08-Mar-2012 15:14:28] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/dlzip/project/profile.php on line 19
+[08-Mar-2012 15:16:14] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/dlzip/project/login.php on line 104
+[08-Mar-2012 15:16:21] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/dlzip/project/login.php on line 104
+[08-Mar-2012 19:16:48] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/profile.php on line 18
+[08-Mar-2012 19:17:00] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/profile.php on line 18
+[08-Mar-2012 19:28:10] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/dlzip/project/profile.php on line 42
+[08-Mar-2012 20:24:38] PHP Fatal error:  Cannot redeclare error_handler() (previously declared in /home/dlzip/project/files/sqlconn.php:4) in /home/dlzip/project/files/sqlconn.php on line 20
+[08-Mar-2012 21:55:43] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/header.php on line 35
+[08-Mar-2012 21:58:00] PHP Warning:  include(headerphp) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/project/index.php on line 3
+[08-Mar-2012 21:58:00] PHP Warning:  include(headerphp) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/dlzip/project/index.php on line 3
+[08-Mar-2012 21:58:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'headerphp' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dlzip/project/index.php on line 3
+[08-Mar-2012 22:02:43] PHP Fatal error:  Cannot redeclare curpageurl() (previously declared in /home/dlzip/project/header.php:13) in /home/dlzip/project/header.php on line 53
+[08-Mar-2012 22:05:42] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 49
+[08-Mar-2012 22:05:44] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 49
+[08-Mar-2012 22:05:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 49
+[08-Mar-2012 22:06:03] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 49
+[08-Mar-2012 22:06:05] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 49
+[08-Mar-2012 22:06:06] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 49
+[08-Mar-2012 22:06:23] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 49
+[08-Mar-2012 22:06:25] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 49
+[08-Mar-2012 22:06:27] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 49
+[08-Mar-2012 22:06:28] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 49
+[08-Mar-2012 22:07:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 49
+[08-Mar-2012 22:07:04] PHP Fatal error:  Cannot redeclare curpageurl() (previously declared in /home/dlzip/project/header.php:13) in /home/dlzip/project/header.php on line 59
+[08-Mar-2012 22:07:59] PHP Fatal error:  Cannot redeclare curpageurl() (previously declared in /home/dlzip/project/header.php:13) in /home/dlzip/project/header.php on line 59
+[08-Mar-2012 22:08:30] PHP Fatal error:  Cannot redeclare curpageurl() (previously declared in /home/dlzip/project/header.php:13) in /home/dlzip/project/header.php on line 59
+[08-Mar-2012 22:09:09] PHP Fatal error:  Cannot redeclare curpageurl() (previously declared in /home/dlzip/project/header.php:13) in /home/dlzip/project/header.php on line 59
+[09-Mar-2012 15:32:40] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/dlzip/project/home.php on line 3
+[09-Mar-2012 15:48:06] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/header.php on line 74
+[10-Mar-2012 11:56:25] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/dlzip/project/notice.php on line 3
+[10-Mar-2012 12:21:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 70
+[10-Mar-2012 12:21:09] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 70
+[10-Mar-2012 12:21:22] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 70
+[10-Mar-2012 12:21:35] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:21:38] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:21:39] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:21:42] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:21:44] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:21:46] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:21:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:21:55] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:22:07] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:22:10] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:22:11] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:22:12] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:22:13] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:22:14] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:22:34] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 12:22:43] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 69
+[10-Mar-2012 14:07:31] PHP Parse error:  syntax error, unexpected T_STRING in /home/dlzip/project/header.php on line 65
+[13-Mar-2012 20:49:49] PHP Parse error:  syntax error, unexpected '@' in /home/dlzip/project/fass.php on line 3
+[03-Apr-2012 23:02:06] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/dlzip/project/profile.php on line 30
+[04-Apr-2012 00:51:59] PHP Parse error:  syntax error, unexpected '!', expecting '(' in /home/dlzip/project/freg.php on line 2
+[04-Apr-2012 21:19:33] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/dlzip/project/header.php on line 72
+[04-Apr-2012 21:19:57] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/dlzip/project/header.php on line 72
+[04-Apr-2012 21:20:01] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/dlzip/project/header.php on line 72
+[04-Apr-2012 23:25:15] PHP Parse error:  syntax error, unexpected '}' in /home/dlzip/project/header.php on line 112
+[05-Apr-2012 17:51:48] PHP Parse error:  syntax error, unexpected '}' in /home/dlzip/project/freg.php on line 213
+[05-Apr-2012 22:51:58] PHP Parse error:  syntax error, unexpected '}' in /home/dlzip/project/noscript.php on line 10
+[06-Apr-2012 01:30:05] PHP Parse error:  syntax error, unexpected T_SWITCH in /home/dlzip/project/upload.php on line 50
+[06-Apr-2012 02:49:47] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/showassignment.php on line 11
+[06-Apr-2012 02:53:20] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/showassignment.php on line 11
+[06-Apr-2012 02:53:23] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/showassignment.php on line 11
+[06-Apr-2012 02:54:05] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/showassignment.php on line 11
+[06-Apr-2012 02:54:08] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/showassignment.php on line 11
+[06-Apr-2012 03:31:18] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dlzip/project/showassignment.php on line 9
+[06-Apr-2012 03:31:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dlzip/project/showassignment.php on line 9
+[06-Apr-2012 03:31:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dlzip/project/showassignment.php on line 9
+[06-Apr-2012 03:31:45] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/showassignment.php on line 11
+[06-Apr-2012 03:31:55] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/showassignment.php on line 11
+[06-Apr-2012 03:47:19] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dlzip/project/showassignment.php on line 24
+[06-Apr-2012 03:47:42] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dlzip/project/showassignment.php on line 26
+[06-Apr-2012 03:47:48] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dlzip/project/showassignment.php on line 26
+[06-Apr-2012 03:48:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dlzip/project/showassignment.php on line 26
+[06-Apr-2012 03:54:23] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/dlzip/project/showassignment.php on line 32
+[06-Apr-2012 03:54:28] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/dlzip/project/showassignment.php on line 32
+[06-Apr-2012 04:22:18] PHP Parse error:  syntax error, unexpected T_BREAK in /home/dlzip/project/showassignment.php on line 27
+[06-Apr-2012 04:51:16] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dlzip/project/upload.php on line 23
+[06-Apr-2012 04:52:32] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dlzip/project/upload.php on line 23
+[06-Apr-2012 09:22:27] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dlzip/project/feedbak.php on line 159
+[06-Apr-2012 09:22:38] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dlzip/project/feedbak.php on line 159
+[06-Apr-2012 09:23:25] PHP Parse error:  syntax error, unexpected T_ELSE in /home/dlzip/project/feedbak.php on line 171
+[06-Apr-2012 10:02:27] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/dlzip/project/showassignment.php on line 57
+[06-Apr-2012 10:02:29] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/dlzip/project/showassignment.php on line 57
+[06-Apr-2012 10:03:05] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/dlzip/project/showassignment.php on line 57
+[06-Apr-2012 10:11:18] PHP Parse error:  syntax error, unexpected '<' in /home/dlzip/project/showassignment.php on line 49
